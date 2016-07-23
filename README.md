@@ -1,4 +1,4 @@
-QuickBot
+ModeradorBot version antigua
 -------------------------
 Bot de telegram usando API conexiones.
 
@@ -9,11 +9,11 @@ Clonar repositorio:
 
 ```bash
 # Clonar QuickBot
-git clone https://github.com/jarriztg/QuickBot.git
+git clone https://github.com/ridrogo/ModeradorBotOld/ModeradorBotOld.git
 ```
 ```bash
 # Mover a directorio y cambiar permisos de arranque
-cd QuickBot && chmod +x run.sh
+cd ModeradorBotOld && chmod +x run.sh
 ```
 Instalar QuickBot: 
 
@@ -60,7 +60,7 @@ Envia tus pullrequest para mejorar el código.
 
 Contacta conmigo
 --------------------
-[![https://telegram.me/jarriz](https://img.shields.io/badge/Telegram-%40Jarriz-green.svg)](https://telegram.me/jarriz)
+[![https://telegram.me/Webrom](https://img.shields.io/badge/Webrom-Telegram-blue.svg)](https://telegram.me/Webrom)
 
 
 ##Comandos
