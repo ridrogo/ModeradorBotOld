@@ -1,6 +1,6 @@
 return {
-	bot_api_key = '231947094:AAHQ6NYmS2uI7WCtIN43iUcxjB8BuvtbCKU',
-	admin = 231947094,
+	bot_api_key = 'readapikey',
+	admin = readowner,
 	log_chat = -122946087,
 	channel = '@GroupButlerEsp',
 	lang = 'languages.lua',
